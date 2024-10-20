@@ -1,6 +1,6 @@
 class_name Root extends Node3D
 
-
+#testing
 @onready var environment:Environment = $WorldEnvironment.environment
 
 func _input(event):
