@@ -1,4 +1,3 @@
-#this is the music instrument project!
 class_name Root extends Node3D
 
 @onready var environment:Environment = $WorldEnvironment.environment
